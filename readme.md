@@ -8,3 +8,4 @@
 6. [Boolean to String Type conversion](./convert_boolean_to_string/main.go)
 7. [Integers and Floats to String Type conversion](./convert_number_to_string/main.go)
 8. [String to Boolean Type conversion](./parsing_string_to_boolean/main.go)
+9. [Converting a Byte Array to String](./byte_array_to_string/main.go)
