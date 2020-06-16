@@ -6,3 +6,4 @@
 4. [Escape Characters](./escape_characters/main.go)
 5. [Capitalize strings](./capitalize_strings/main.go)
 6. [Boolean to String Type conversion](./convert_boolean_to_string/main.go)
+7. [Integers and Floats to String Type conversion](./convert_number_to_string/main.go)
