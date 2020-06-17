@@ -13,3 +13,4 @@
 11. [Adding or subtracting from date](./adding_or_subtracting_from_date/main.go)
 12. [Difference between two dates](./difference_between_two_dates/main.go)
 13. [Parsing date and time from string](./parsing_date_time_from_string/main.go)
+14. [Extracting unique elements from the list](./extract_unique_elements_from_list/main.go)
