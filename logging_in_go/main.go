@@ -17,5 +17,6 @@ func main() {
 
 	log.SetOutput(logFile)
 	log.Println("Writing log file")
+	// Fatalln() is similar to Println but calls os.Exit(1)
 	log.Fatalln("ERROR: Application crashed! check log file..")
 }
