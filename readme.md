@@ -31,3 +31,4 @@
 29. [Creating temp files](./creating_temp_files/main.go)
 30. [Read a particular line in a file](./read_specific_line/main.go)
 31. [Comparing two files](./comparing_two_files/main.go)
+32. [Delete a file](./delete_a_file/main.gos)
