@@ -20,3 +20,4 @@
 18. [Converting Map into array of keys and values](./converting_map_into_array_of_keys_and_values/main.go)
 19. [Merging arrays](./merging_arrays/main.go)
 20. [Merging maps](./merging_maps/main.go)
+21. [Testing for the presence of key in map](./is_key_in_map/main.go)
