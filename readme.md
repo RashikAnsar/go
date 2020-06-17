@@ -41,3 +41,4 @@
 39. [Selecting the results of a concurrent functions](./selecting_result_from_specfic_concurrent_funcs/main.go)
 40. [Catching signals](./catching_signals/main.go)
 41. [Running child processes](./running_child_processes/main.go)
+42. [Processing command line arguments](./processing_command_line_args/main.go)
