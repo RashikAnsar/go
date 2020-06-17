@@ -26,3 +26,4 @@
 24. [Logging in go](./logging_in_go/main.go)
 25. [Dealing with panics](./dealing_with_panics/main.go)
 26. [Checking the existence of a file](./existence_of_a_file/main.go)
+27. [Reading the entire content of a file](./reading_a_file/main.go)
