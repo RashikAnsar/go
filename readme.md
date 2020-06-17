@@ -39,3 +39,4 @@
 37. [Parsing data between concurrently running functions](./parsing_data_between_concurrent_funcs/main.go)
 38. [Waiting for all concurrent functions to finish](./waiting_for_all_concurrent_funcs_to_finish/main.go)
 39. [Selecting the results of a concurrent functions](./selecting_result_from_specfic_concurrent_funcs/main.go)
+40. [Catching signals](./catching_signals/main.go)
