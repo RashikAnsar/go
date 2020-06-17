@@ -36,3 +36,4 @@
 34. [Delete a directory](./delete_a_directory/main.go)
 35. [List all the files in a directory](./list_all_files_in_directory/main.go)
 36. [Running multiple functions concurrently](./running_multiple_funcs_concurrently/main.go)
+37. [Parsing data between concurrently running functions](./parsing_data_between_concurrent_funcs/main.go)
