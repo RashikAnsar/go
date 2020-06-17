@@ -46,3 +46,5 @@
 44. [Downloading file from internet](./download_file/main.go)
 45. [Simple web server](./web_server/main.go)
 46. [Simple File server](./file_server/main.go)
+47. [Reading Data from SQL](./reading_data_from_sql/main.go)
+48. [Insert Data into SQL](./inserting_data_in_sql/main.go)
