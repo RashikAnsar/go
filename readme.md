@@ -18,3 +18,4 @@
 16. [Reversing (decreasing order) an array](./reverese_array/main.go)
 17. [Iterating over the array](./iterate_over_array/main.go)
 18. [Converting Map into array of keys and values](./converting_map_into_array_of_keys_and_values/main.go)
+19. [Merging arrays](./merging_arrays/main.go)
