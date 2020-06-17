@@ -29,3 +29,4 @@
 27. [Reading the entire content of a file](./reading_a_file/main.go)
 28. [Writing to a file](./write_to_a_file/main.go)
 29. [Creating temp files](./creating_temp_files/main.go)
+30. [Read a particular line in a file](./read_specific_line/main.go)
