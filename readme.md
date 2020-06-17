@@ -12,3 +12,4 @@
 10. [Todays date and time](./todays_date_and_time/main.go)
 11. [Adding or subtracting from date](./adding_or_subtracting_from_date/main.go)
 12. [Difference between two dates](./difference_between_two_dates/main.go)
+13. [Parsing date and time from string](./parsing_date_time_from_string/main.go)
