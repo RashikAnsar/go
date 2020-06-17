@@ -34,3 +34,4 @@
 32. [Delete a file](./delete_a_file/main.go)
 33. [Rename a file](./rename_a_file/main.go)
 34. [Delete a directory](./delete_a_directory/main.go)
+35. [List all the files in a directory](./list_all_files_in_directory/main.go)
