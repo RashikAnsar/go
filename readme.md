@@ -28,3 +28,4 @@
 26. [Checking the existence of a file](./existence_of_a_file/main.go)
 27. [Reading the entire content of a file](./reading_a_file/main.go)
 28. [Writing to a file](./write_to_a_file/main.go)
+29. [Creating temp files](./creating_temp_files/main.go)
