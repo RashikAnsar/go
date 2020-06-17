@@ -22,3 +22,4 @@
 20. [Merging maps](./merging_maps/main.go)
 21. [Testing for the presence of key in map](./is_key_in_map/main.go)
 22. [Creating custom error type](./custom_error_type/main.go)
+23. [Error Handling](./try_catch_in_go/main.go)
