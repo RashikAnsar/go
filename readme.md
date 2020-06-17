@@ -21,3 +21,4 @@
 19. [Merging arrays](./merging_arrays/main.go)
 20. [Merging maps](./merging_maps/main.go)
 21. [Testing for the presence of key in map](./is_key_in_map/main.go)
+22. [Creating custom error type](./custom_error_type/main.go)
