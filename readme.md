@@ -2,6 +2,8 @@
 
 - [Go Notes](./go_notes.md)
 
+-----
+
 1. [Trimming Spaces](./src/trimming_spaces/main.go)
 2. [Extracting substrings](./src/extracting_substrings/main.go)
 3. [Replacing parts of a string](./src/replacing_part_of_a_string/main.go)
@@ -50,3 +52,6 @@
 46. [Simple File server](./src/file_server/main.go)
 47. [Reading Data from SQL](./src/reading_data_from_sql/main.go)
 48. [Insert Data into SQL](./src/inserting_data_in_sql/main.go)
+
+------
+
