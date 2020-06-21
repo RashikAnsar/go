@@ -55,3 +55,4 @@
 
 ------
 
+1. [Factorial](./problems/factorial/main.go)
