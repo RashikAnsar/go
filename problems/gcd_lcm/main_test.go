@@ -17,3 +17,19 @@ func TestGCD(t *testing.T) {
 		t.Errorf("Got %v want %v", got, want)
 	}
 }
+
+func TestLCM(t *testing.T) {
+	got := LCM(15, 20)
+	want := 60
+
+	if got != want {
+		t.Errorf("Got %v want %v", got, want)
+	}
+
+	got = LCM(72, 120)
+	want = 360
+
+	if got != want {
+		t.Errorf("Got %v want %v", got, want)
+	}
+}

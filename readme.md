@@ -2,7 +2,7 @@
 
 - [Go Notes](./go_notes.md)
 
------
+---
 
 1. [Trimming Spaces](./src/trimming_spaces/main.go)
 2. [Extracting substrings](./src/extracting_substrings/main.go)
@@ -53,9 +53,9 @@
 47. [Reading Data from SQL](./src/reading_data_from_sql/main.go)
 48. [Insert Data into SQL](./src/inserting_data_in_sql/main.go)
 
-------
+---
 
 1. [Factorial](./problems/factorial/main.go)
 2. [Is Prime Number](./problems/isPrime/main.go)
-3. [GCD (Euclidean Algorithm)](./problems/gcd/main.go)
+3. [GCD and LCM(Euclidean Algorithm)](./problems/gcd_lcm/main.go)
 4. [Find Exponent using (`+`,`-`,`*`.`/`,`%`)](./problems/exponent/main.go)

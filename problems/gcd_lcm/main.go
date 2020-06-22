@@ -20,4 +20,9 @@ func GCD(x int, y int) int {
 	return GCD(y, x%y)
 }
 
+// LCM Least common Multiple of two numbers
+func LCM(x int, y int) int {
+	return (x * y) / GCD(x, y)
+}
+
 func main() {}
