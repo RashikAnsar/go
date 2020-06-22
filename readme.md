@@ -56,3 +56,6 @@
 ------
 
 1. [Factorial](./problems/factorial/main.go)
+2. [Is Prime Number](./problems/isPrime/main.go)
+3. [GCD (Euclidean Algorithm)](./problems/gcd/main.go)
+4. [Find Exponent using (`+`,`-`,`*`.`/`,`%`)](./problems/exponent/main.go)
