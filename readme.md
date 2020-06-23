@@ -60,3 +60,4 @@
 3. [GCD and LCM(Euclidean Algorithm)](./problems/gcd_lcm/main.go)
 4. [Find Exponent using (`+`,`-`,`*`.`/`,`%`)](./problems/exponent/main.go)
 5. [Is Power of Two](./problems/isPowerOfTwo/main.go)
+6. [Prime Factors of an integer](./problems/primeFactorization/main.go)
