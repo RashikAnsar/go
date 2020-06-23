@@ -12,6 +12,9 @@ func isPowerOfTwo(x int) bool {
 	// }
 	// return true
 	// // using bitwise operations
+	if x < 1 {
+		return false
+	}
 	return x&(x-1) == 0
 }
 
